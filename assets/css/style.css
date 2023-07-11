@@ -1,14 +1,4 @@
-/**
-* Template Name: Laura
-* Updated: May 30 2023 with Bootstrap v5.3.0
-* Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -606,6 +596,7 @@ section {
   background-size: cover;
   min-height: 350px;
   border-radius: 2rem;
+  margin-bottom: 1rem;
 }
 
 .about .skills-content {
